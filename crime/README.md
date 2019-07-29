@@ -29,6 +29,9 @@ npm run lint
 ```
 npm run test:unit
 ```
-
+### 注意
+```
+数据完全经过脱敏处理，后台环境如需要请联系QQ849456318。
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
