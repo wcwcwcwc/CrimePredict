@@ -39,6 +39,9 @@
 5. 可视化大屏展示
 数据可视化分析将系统分析成果可视化上图，清晰直观的展现出研判对象基础信息、现实状况、动态轨迹等信息,实时把控全区域的警务工作状态。
 
+### 功能展示
+1.地图视野内犯罪动态展示
+![image](https://github.com/wcwcwcwc/CrimePredict/blob/master/crime/public/20190802_152054.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 ## Project setup
 ```
 npm install
