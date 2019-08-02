@@ -42,6 +42,10 @@
 ### 功能展示
 1.地图视野内犯罪动态展示
 ![image](https://github.com/wcwcwcwc/CrimePredict/blob/master/crime/public/20190802_152054.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+2.基于时间的犯罪动态展示
+![image](https://github.com/wcwcwcwc/CrimePredict/blob/master/crime/public/20190802_152124.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+3.基于时间的犯罪热点轨迹
+![image](https://github.com/wcwcwcwc/CrimePredict/blob/master/crime/public/20190802_152240.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 ## Project setup
 ```
 npm install
